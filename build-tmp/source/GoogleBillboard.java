@@ -28,7 +28,7 @@ public void setup()
     		break;
     	}
     }
-    System.out.println(firstPrime); 
+    System.out.println(firstPrime);
 }  
 public void draw()  
 {   
